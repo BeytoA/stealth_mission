@@ -1,0 +1,66 @@
+{
+  "display": {
+    "title": "Stealth Mission",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "OnSr",
+    "email": "biyturs_onsr@hotmail.com"
+  },
+  "owner": "",
+  "scene": {
+    "parcels": [
+      "0,0",
+      "0,1",
+      "0,2",
+      "0,3",
+
+      "1,0",
+      "1,1",
+      "1,2",
+      "1,3",
+
+      "2,0",
+      "2,1",
+      "2,2",
+      "2,3",
+
+      "3,0",
+      "3,1",
+      "3,2",
+      "3,3"
+    ],
+    "base": "0,0"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": []
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "spawnPoints": [
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 2,
+        "y": 0,
+        "z": 53.5
+      },
+      "cameraTarget": {
+        "x": 53,
+        "y": 0,
+        "z": 53
+      }
+    }
+  ],
+  "requiredPermissions": [
+    "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE"
+  ]
+}

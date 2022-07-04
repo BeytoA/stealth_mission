@@ -1,0 +1,89 @@
+{
+    "gltfAssets": [
+        {
+            "name": "base Light",
+            "id": "1f953154-c116-4492-bf2a-e31ba0cee9d9",
+            "gltfPath": "models/baseLight.glb"
+        },
+        {
+            "name": "moving Platform",
+            "id": "a71bcc4f-c6ae-461d-bc55-21ccfbe40077",
+            "gltfPath": "models/movingPlatform.glb"
+        },
+        {
+            "name": "star Coin",
+            "id": "8b304209-c7d0-48ed-99b8-325fad8647f7",
+            "gltfPath": "models/starCoin.glb"
+        },
+        {
+            "name": "static Platforms",
+            "id": "2ace9a94-5525-4861-a86a-b14b41d057af",
+            "gltfPath": "models/staticPlatforms.glb"
+        },
+        {
+            "name": "trigger Platform",
+            "id": "0c7e7dab-4c30-4cca-9c91-34af35a16411",
+            "gltfPath": "models/triggerPlatform.glb"
+        },
+        {
+            "name": "Scene Ground",
+            "id": "514f1dc3-70ba-49e3-8ffd-5b27c8b23950",
+            "gltfPath": "models/SceneGround.glb"
+        },
+        {
+            "name": "Side Character Model",
+            "id": "73c2a447-3c93-4297-abc8-fb9e226cc7ed",
+            "gltfPath": "models/SideCharacterModel.glb"
+        },
+        {
+            "name": "Arrow2m Wide",
+            "id": "e3b33e71-3fb7-47c6-aaec-9a7a3efa2e90",
+            "gltfPath": "models/Arrow2mWide.glb"
+        },
+        {
+            "name": "Character Man",
+            "id": "8f39a779-afb5-4d48-a111-86b71b473b5f",
+            "gltfPath": "models/CharacterMan.glb"
+        },
+        {
+            "name": "Diner Owner",
+            "id": "b6744277-9964-4e4d-b534-7c04c550311c",
+            "gltfPath": "models/DinerOwner.glb"
+        },
+        {
+            "name": "First Gang Member",
+            "id": "7b06f24c-2852-4937-b7ed-762aee002cb8",
+            "gltfPath": "models/FirstGangMember.glb"
+        },
+        {
+            "name": "Second Gang Member",
+            "id": "8caa97d2-0abc-4566-b9d4-b5001be927b9",
+            "gltfPath": "models/SecondGangMember.glb"
+        },
+        {
+            "name": "Gang Member",
+            "id": "b38dceb6-cbdf-4548-bd4d-b7cc90c44694",
+            "gltfPath": "models/GangMember.glb"
+        },
+        {
+            "name": "Scene2Model",
+            "id": "e1ec9b15-6aa7-41e4-8195-acdfba3f1253",
+            "gltfPath": "models/Scene2Model.glb"
+        },
+        {
+            "name": "Desk And Chair",
+            "id": "97358b69-4e5c-444b-b929-e790f023bf99",
+            "gltfPath": "models/DeskAndChair.glb"
+        },
+        {
+            "name": "Transparent Box",
+            "id": "755e18d2-90ec-45e8-919c-8e0423e5c24a",
+            "gltfPath": "models/TransparentBox.glb"
+        },
+        {
+            "name": "USBdisk Model",
+            "id": "5599c252-dedd-4c93-89cc-c75b9fb5eb54",
+            "gltfPath": "models/USBdiskModel.glb"
+        }
+    ]
+}
